@@ -1,0 +1,5 @@
+selenium-stealth
+seleniumbase
+selenium
+pyautogui
+opencv-python
